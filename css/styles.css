@@ -1,0 +1,205 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+@media only screen and (max-width: 900px)  {
+  body{
+	width:100%;
+	overflow: hidden;
+  }
+.inquiry_section{
+	display: none;
+}
+.hide_class{
+	display: none;
+}
+.back_img{
+	width: 100%;
+}
+.icon-img{
+	padding: 0px;
+	margin: 0px;
+}
+.background-image-md{
+	margin: 0px !important;
+}
+.india{
+	margin: 0px !important;
+}
+.visa_contry{
+	margin:20px 50px;
+}
+ }
+
+body{
+	font-family: 'Poppins', sans-serif;
+	overflow-x:hidden;
+
+}
+.mail{
+	padding-left:9px;
+	color:#888888;
+}
+.footer-text{
+	padding-left: 10px;
+}
+.star-mail{
+	margin-top:15PX;
+	color:#888888;
+	font-size:16px;
+}
+.nav-item{
+	color:#ffffff;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-left:0px;
+
+}
+.orange-packages{
+	font-size:36px;
+	color:#ffcb05;
+}
+.india{
+	font-size:36px;
+	color:#333333;
+	margin-top:20px;
+	text-align: center;
+}
+.sthr{
+	padding:0px;
+}
+.mid_img{
+	text-align: center;
+}
+.img-andman{
+   width:530px;
+	height:530px;
+}
+.side-1stimg{
+	width:260px;
+	height:250px;
+	padding-left:210px;
+}
+.andman-img{
+	margin-top:20px;
+	margin-left:100px;
+	height:530px;
+	width:530px;
+}
+.ladakh-img{
+  	margin-top:20px;
+  	margin-bottom:20px;
+}
+.himachal-img{
+	margin-top:20px;
+	margin-bottom:20px;
+}
+.side-2ndimg{
+	width:260px;
+	height:250px;
+	padding-left:40px;
+}
+.andman-price{
+    margin: 30px 0px 0px 109px;
+}
+.ladakh-price{
+	margin: 26px 0px 0px 6px;
+}
+.kerla-price{
+	margin: 5px 0px 0px 6px;
+}
+.himachal-price{
+	margin: 25px 0px 0px 9px;
+}
+.bhutan-price{
+	margin: 5px 0px 0px 7px;
+}
+.main-packages{
+	color:#fff;
+	position: absolute;
+}
+.visa_contry{
+	margin-top:20px;
+	margin-left:50px;
+}
+.fst-btn{
+   background-color:lightblue;
+   color:white;
+   margin: 30px 50px;
+   padding: 15px 30px;
+   align: center;
+   border-color: lightblue;
+   border-radius: 5px;
+}
+.lst-btn{
+	border-radius: 5px;
+	padding: 5px 75px;
+	background-color:lightblue;
+	color:white;
+	align: right;
+	border-color: lightblue;
+}
+.background-image-md{
+	background:url("../images/imgback.png");
+	margin-top:60px;
+}
+.font-for-footer{
+	background-color:#223645;
+	color:#888888;
+	padding-top:30px;
+}
+.border{
+	border-radius:5%;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:20px;
+    padding-right:150px;
+}
+.inquiry_card{
+	margin: 30px 50px;
+	padding: 10px 25px;
+}
+.icon-img{
+	padding-left:230px;
+	margin-top:0px;
+}
+.quick-link{
+    font-size:20px;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: solid;
+    border-left-style: none;
+}
+.main-links{
+	border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: solid;
+    border-left-style: none;
+}
+.rights{
+    background-color: #223645;
+	color: #888888;
+	padding-left: 10px;
+	margin-top: 1px;
+	padding-top: 10px;
+}
+.rights_line{
+	padding-top: 5px;
+}
+.inquiry{
+	font-size:36px;
+	color:#333333;
+	margin-top:20px;
+	margin-bottom:20px;
+	margin-left:580px;
+}
+.form_inquiry{
+	display: flex;
+}
+.input_type{
+	border-radius: 5px;
+	background-color: transparent;
+}
+.q_inq{
+	padding: 15px;
+}
+.btn_position{
+	text-align:right;
+}
